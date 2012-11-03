@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 RailsinstallerDemo::Application.configure do
+=======
+FirstApp::Application.configure do
+>>>>>>> modify-README
   # Settings specified here will take precedence over those in config/application.rb
 
   # In the development environment your application's code is reloaded on

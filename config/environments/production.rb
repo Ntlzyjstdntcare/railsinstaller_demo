@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 RailsinstallerDemo::Application.configure do
+=======
+FirstApp::Application.configure do
+>>>>>>> modify-README
   # Settings specified here will take precedence over those in config/application.rb
 
   # Code is not reloaded between requests
